@@ -1,0 +1,2 @@
+C:\Users\No_player\source\repos\Sound_Searcher\x64\Debug\fftw3.dll
+C:\Users\No_player\source\repos\Sound_Searcher\x64\Debug\mpg123.dll
